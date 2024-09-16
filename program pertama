@@ -1,0 +1,10 @@
+public class BahasaPemrogram {
+
+  
+    public static void main(String[] args) {
+        System.out.println("Hello Word");
+        System.out.println("Aku Cinta Indonesia");
+        
+    }
+    
+}
